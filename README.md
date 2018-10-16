@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+10,16,2018
 
 ### Student Name:  
-(First and Last Name)
+Arianna Wittig
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+I created a page that calculated mothly expenses through shelter, food, household, transportation, and miscellaneous.
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. associating an HTML element to an event
+2. use to getElementById() method, a document object method, to reference elements on a web page using its id value
+3. combining 2 files on cloud9 to work together
 
 
 
